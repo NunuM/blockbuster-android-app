@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Blockbuster</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="search">Search</string>
+
+    <string name="title_activity_movie_detail">ScrollingActivity</string>
+
+    <string name="all_genre_label">All</string>
+
+    <string name="inserted_movies">Found %1$d new movie(s)</string>
+
+    <string name="general_error">Error: %1$s</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="dialogue_search_order">
+        <item>Descendant</item>
+        <item>Ascendant</item>
+    </string-array>
+    <string-array name="dialogue_search_type">
+        <item>Inserted</item>
+        <item>Rating</item>
+    </string-array>
+
+
+    <string-array name="dialogue_seen">
+        <item>No</item>
+        <item>Yes</item>
+        <item>All</item>
+    </string-array>
+
+</resources>
